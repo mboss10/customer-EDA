@@ -69,7 +69,7 @@ There is noticeable **variability** in performance **across different regions**.
 <br><br>
 
 This could indicate that **Commercial regions have more engaged or higher-value customers**.  
-
+<br><br>
 
 3. Churn and New Accounts:
 
