@@ -56,6 +56,18 @@ However, I created a query that shows that over time, the percentage of usage an
 
 Indeed Platform B contributed to **only 1% of the usage and revenue** in the month of **February 2018**, when in the most recent month we have in the dataset, **October 2020**, it contributed to **10% of the usage and 15% of the revenue**. I think it would be worth exploring further and monitoring the trend in the coming months.  
 
+
 2. Regional Performance Variability:
+
+There is noticeable **variability** in performance **across different regions**. The **Mid Market** regions, particularly MM and MM East, often show **lower usage and revenue figures** compared to the Commercial regions.
+
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Total%20Revenue%20by%20Region.png">
+<br><br>
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Regions.png">
+<br><br>
+
+This could indicate that **Commercial regions have more engaged or higher-value customers**.
 
 
