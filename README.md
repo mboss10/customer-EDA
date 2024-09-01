@@ -29,15 +29,16 @@ In the next paragraph, I will walk you through the results of my exploratory ana
 
 1. Platform and Revenue Correlation:
 
-The data indicates that **Platform A** generally generates **higher revenue** (overall and on average) compared to Platform B. This trend is consistent across different fiscal year, regions and skuType.
+The data indicates that **Platform A** generally generates **higher revenue** (overall and on average) compared to Platform B. This trend is consistent across different fiscal year, regions and skuType.  
+
 <br>
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Platform_SKU.png" width="600px">
-<br>
+<br><br>
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Platform_Region.png" width="600px">
-<br>
+<br><br>
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Total%20Revenue%20by%20Platform.png">
-<br>
+<br><br>
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Total%20Revenue%20by%20Platform%20and%20skuType.png">
-<br>
+<br><br>
 
 
