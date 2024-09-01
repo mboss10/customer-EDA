@@ -68,6 +68,58 @@ There is noticeable **variability** in performance **across different regions**.
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Regions.png">
 <br><br>
 
-This could indicate that **Commercial regions have more engaged or higher-value customers**.
+This could indicate that **Commercial regions have more engaged or higher-value customers**.  
 
 
+3. Churn and New Accounts:
+
+The data shows a **low churn rate** across the dataset, with most entries having a churned_quarter value of 0.  
+
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Churn%20percentage%20per%20year.png">
+<br><br>
+
+However, there are some instances of **new accounts** being added, particularly in **recent fiscal quarters**, indicating potential growth areas. The presence of new accounts suggests that the **business is successfully acquiring new customers**, although the impact on overall revenue and usage needs further analysis.  
+
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/FQ%20churn%20new%20account.png">
+<br><br>
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Churn%20and%20New%20Accounts%20in%20FY2021.png">
+<br><br>
+
+## Assumptions on the Data  
+
+I used the following assumptions to perform my analysis:
+* The data is **complete** and **accurate** for the periods and metrics provided.
+* Revenue and usage figures are directly **comparable across platforms and
+regions**.
+* The **fiscal quarters and years** align with the **company's reporting standards**.
+* Churn and new account indicators are correctly labeled and **reflect actual
+customer behavior**.
+
+## Recommendations for the Business
+
+**Focus on Platform A**  
+Given the higher revenue associated with Platform A, the business should consider investing more in marketing and development for this platform to maximize returns.  
+
+**Enhance Engagement in Commercial Regions**  
+Since Commercial regions outperform Mid Market ones, targeted strategies to boost engagement and sales in Mid Market regions could help balance regional performance.  
+
+**Monitor New Account Growth**  
+With new accounts being added, especially in recent quarters, the business should focus on onboarding and nurturing these new customers to ensure long-term retention and revenue growth.  
+
+## Additional Data Needed  
+
+**Customer Segmentation Data**  
+More detailed customer demographics and segmentation data could help tailor marketing and engagement strategies more effectively.  
+
+**Competitive Analysis**  
+Information on competitors' performance in similar regions and platforms could provide insights into market positioning and potential areas for improvement.  
+
+**Customer Feedback**  
+Qualitative data from customer feedback could help identify pain points and areas for product or service enhancements.  
+
+## Executive Summary  
+
+The analysis of the data reveals that **Platform A is a key driver of revenue**, suggesting a **strategic focus on this platform** could be beneficial. There is a significant **performance disparity** between **Commercial and Mid Market regions**, indicating **potential for growth** in the latter. The **low churn rate** coupled with the acquisition of **new accounts** presents an opportunity for **customer base expansion**. To capitalize on these insights, the business should consider enhancing its **focus on Platform A, improving engagement in underperforming regions, and leveraging new customer growth**. Additional data on customer segmentation, competitive landscape, and customer feedback would further inform strategic decisions.
