@@ -41,4 +41,12 @@ The data indicates that **Platform A** generally generates **higher revenue** (o
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Total%20Revenue%20by%20Platform%20and%20skuType.png">
 <br><br>
 
+For example, entries associated with Platform A often show higher revenue figures than those associated with Platform B, suggesting that **Platform A** may have a more **robust customer base and/or higher usage rates**.  
+
+This is confirmed by this visual analysis, in which we can quickly identified the **growing usage trajectory of Platform A** in contrast with the pretty **flat progress of Platform B**.
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Usage%20over%20time.png">
+<br><br>
+
+
 
