@@ -1,0 +1,16 @@
+,Column Name,Description
+,fiscalYear,Fiscal Year of usage
+,fiscalQuarter,Fiscal Quarter of usage
+,date,calendar year_month of the usage
+,year,calendar year of the usage
+,month,calendar month of the usage
+,Role_Region__c,Account Region. All accounts from the data set are assigned to AMER region
+,Region_Level_1__c,Account Sub Region. All accounts from this data set are assigned to either Commercial or Mid Market segment
+,Region_Level_2__c,Sub region is split further into Region Level 2. 
+,Fiscal Year signup,Databricks Fiscal Year starts in Jan and ends in Feb. This column tells us Fiscal Year when did customer sign up for databricks. 
+,Fiscal Q signup,This column tells us Fiscal Quarter when did customer sign up for databricks. 
+,accountId,anonymized customer name 
+,platform,"Databricks sells its product via 2 distinct plaform - Platform A and Platform B. Normally customer uses either A or B, however exceptions exist "
+,skuType,"Within Platform A and Platform B, customers can do Data Eng or/and Machine Learning. Every customer has different different usage patterns, also price per SKU is different "
+,"Usage, DBUs","When customer uses Databricks, it is refleted in DBUs (Databricks Units).  "
+,"Revenue, $",Revenue = (DBUs * Price per DBU). Each DBU is priced differently depending on SKU type.
