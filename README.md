@@ -6,3 +6,20 @@ To accomplish this project I decided to first start by **exploring** the data us
 
 > [!NOTE]
 > I have provided all the SQL queries I used in the [`EDA.sql`](https://github.com/mboss10/customer-EDA/blob/main/output%20files/EDA.sql) file.
+
+
+The focus of my exploration queries revolved around revenue per platform and per region, usage and revenue over time as well as recent trend in churn and new accounts.
+The results started to indicate several axis for further exploration:  
+* A strong correlation between the type of platform and the revenue and usage
+* A variability in the results based on the regions
+* An uptick in new accounts and a reduction in churn through the most recent fiscal year
+
+  
+I then decided to augment this first set of exploration analysis with visual representation.  
+
+I loaded the data into a Jupyter notebook and I used pandas and plotly libraries to create the graphs I needed to support the rest of my analysis.  
+
+> [!NOTE]
+> NB: I have provided the python code I wrote in the `EDA.ipynb` file.
+
+In the next paragraph, I will walk you through the results of my exploratory analysis in more details, using the queries I wrote and the graphs I plotted.  
