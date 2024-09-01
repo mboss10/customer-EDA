@@ -43,10 +43,19 @@ The data indicates that **Platform A** generally generates **higher revenue** (o
 
 For example, entries associated with Platform A often show higher revenue figures than those associated with Platform B, suggesting that **Platform A** may have a more **robust customer base and/or higher usage rates**.  
 
-This is confirmed by this visual analysis, in which we can quickly identified the **growing usage trajectory of Platform A** in contrast with the pretty **flat progress of Platform B**.
+This is confirmed by this visual analysis, in which we can quickly identified the **growing usage trajectory of Platform A** in contrast with the pretty **flat progress of Platform B**.  
+
 <br>
 <img src="https://github.com/mboss10/customer-EDA/blob/main/images/Usage%20over%20time.png">
 <br><br>
 
+However, I created a query that shows that over time, the percentage of usage and revenue attributed to Platform A and Platform B is **slightly changing** towards Platform B.  
+<br>
+<img src="https://github.com/mboss10/customer-EDA/blob/main/images/Month_usage.png">
+<br><br>
+
+Indeed Platform B contributed to **only 1% of the usage and revenue** in the month of **February 2018**, when in the most recent month we have in the dataset, **October 2020**, it contributed to **10% of the usage and 15% of the revenue**. I think it would be worth exploring further and monitoring the trend in the coming months.  
+
+2. Regional Performance Variability:
 
 
